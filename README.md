@@ -22,15 +22,20 @@ notes=[1000,500,200,100,50,20,10,5,2,1]
 
    ### Question 6
    - Write a program that will give following output:   Marks:5 
-12345    
-1234    
-123  
-12  
-1
-12   
-123 
-1234
-12345
+    ![image](https://github.com/user-attachments/assets/9115f2ab-e838-4e83-bdc2-0db4c26c3a11)
 
+  ### Question 7
+   - Take input as height of 10 babies in cm. Now find out the 2 lowest height of babies. (Don’t use Arrays.sort() method)
+  ### Question 8
+  - Count number of words, number of characters without spaces, number of vowels and consonant from the given string
+  ### Question 9 
+  - Find the number of occurrences of characters in a String
+   ### Question 10
+   - Print the  numbers which are not duplicate from the given array. Marks:5
+numbers=[1, 1, 2, 3, 1, 2, 4, 5, 6, 5, 4, 7]
+  ### Question 11
+  - Remove Vowels from a String
+   ### Question 12
+   - A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price]
    
  - [Click Here To See The Solution Document](https://docs.google.com/document/d/10otlwVuxS67WUWe2gvgaZWC6V_TL8AXSRg9miniAAV4/edit?usp=sharing)
