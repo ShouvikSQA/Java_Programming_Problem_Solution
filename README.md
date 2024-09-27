@@ -9,8 +9,8 @@
    -  Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]
    - Find out who achieved the 2nd highest score. (without sorting, use linear searching algorithm)
    #### Solution Approch : 
-  ** Here I have Taken one variable For the max value (max1) and another For the second max value (max1). Then Loop Through the whole array and updated Those variables.**
-   ** When the value from the array was Greater the nax1 , update max1 . When the array value is smaller than max1 , but greater than max2 , Just update max2 with array value. **
+   Here I have Taken one variable For the max value (max1) and another For the second max value (max1). Then Loop Through the whole array and updated Those variables.
+    When the value from the array was Greater the nax1 , update max1 . When the array value is smaller than max1 , but greater than max2 , Just update max2 with array value. 
    ### Question 2
    -  Sort the above scores from according to the order of highest CGPA (don’t use Arrays.sort() method, do it programmatically)
    ### Question 3
