@@ -39,4 +39,4 @@ numbers=[1, 1, 2, 3, 1, 2, 4, 5, 6, 5, 4, 7]
    - A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price]
 
    ## Solution Codes -
- - [Click Here To See The Solution Document](https://docs.google.com/document/d/10otlwVuxS67WUWe2gvgaZWC6V_TL8AXSRg9miniAAV4/edit?usp=sharing)
+ - [Click Here To See The Solution Codes and Output Document](https://docs.google.com/document/d/10otlwVuxS67WUWe2gvgaZWC6V_TL8AXSRg9miniAAV4/edit?usp=sharing)
