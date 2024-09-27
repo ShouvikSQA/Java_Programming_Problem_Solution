@@ -13,12 +13,17 @@
     When the value from the array was Greater the nax1 , update max1 . When the array value is smaller than max1 , but greater than max2 , Just update max2 with array value. 
    ### Question 2
    -  Sort the above scores from according to the order of highest CGPA (don’t use Arrays.sort() method, do it programmatically)
+   #### Solution Approch : 
+   Here I have sorted the array, By moving the lowest element at last position, Moving 2nd lowest element at the 2nd last position and so on.
    ### Question 3
    -  Take a CGPA as user input. Now from the given array find if your input CGPA is present using binary search algorithm
-      
+   #### Solution Approch :
+   Here The array is unsorted . So, We will First sort the array, as we need a sorted array for Binary Search . 
+   Then we will perform the binary search on the sorted array.
   ### Question 4
    - Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min number from the array.
-
+    #### Solution Approch :
+    We will generate 10 random number and put them in an array. Than we will Traverse the array , and while traversing we will update the max and min variable.
   ### Question 5
    - Write a program that will break down the amount and count notes for any given amount. Here is the notes in the given array:    
 notes=[1000,500,200,100,50,20,10,5,2,1]
