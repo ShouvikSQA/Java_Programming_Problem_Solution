@@ -21,8 +21,8 @@
 notes=[1000,500,200,100,50,20,10,5,2,1]
 
    ### Question 6
-   - Write a program that will give following output:   Marks:5 
-    ![image](https://github.com/user-attachments/assets/9115f2ab-e838-4e83-bdc2-0db4c26c3a11)
+   - Write a program that will give following output:  
+   - ![image](https://github.com/user-attachments/assets/9115f2ab-e838-4e83-bdc2-0db4c26c3a11)
 
   ### Question 7
    - Take input as height of 10 babies in cm. Now find out the 2 lowest height of babies. (Don’t use Arrays.sort() method)
@@ -31,7 +31,7 @@ notes=[1000,500,200,100,50,20,10,5,2,1]
   ### Question 9 
   - Find the number of occurrences of characters in a String
    ### Question 10
-   - Print the  numbers which are not duplicate from the given array. Marks:5
+   - Print the  numbers which are not duplicate from the given array. 
 numbers=[1, 1, 2, 3, 1, 2, 4, 5, 6, 5, 4, 7]
   ### Question 11
   - Remove Vowels from a String
