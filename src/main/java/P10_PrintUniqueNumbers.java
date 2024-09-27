@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class P10_PrintUniqueNumbers {
     public static void main(String[] args) {
 
-        int[] array = new int[10];
+        int[] array = new int[12];
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter The Numbers : ");
