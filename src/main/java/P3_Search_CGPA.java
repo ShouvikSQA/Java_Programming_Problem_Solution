@@ -20,13 +20,13 @@ public class P3_Search_CGPA {
 
     public static int binarySearch(double[] array , double target){
 
-        int s =0 , e = array.length-1 ;
-        while (s<=e){
-            int m = (s+e)/2 ;
+        int left =0 , right = array.length-1 ;
+        while (left<=right){
+            int mid = left + (right - left) / 2;
 
-            if( array[m] == target ) return m;
-            else if(array[m] < target) s=m+1;
-            else    e = m-1;
+            if( array[mid] == target ) return mid;
+            else if(array[mid] < target) left=mid+1;
+            else    right = mid-1;
 
         }
 
