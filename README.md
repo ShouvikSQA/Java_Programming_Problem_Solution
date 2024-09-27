@@ -15,5 +15,22 @@
    -  
     ### Question 4
    - Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min number from the array.
+
+    ### Question 5
+    - Write a program that will break down the amount and count notes for any given amount. Here is the notes in the given array:    
+notes=[1000,500,200,100,50,20,10,5,2,1]
+
+   ### Question 6
+   - Write a program that will give following output:   Marks:5 
+12345    
+1234    
+123  
+12  
+1
+12   
+123 
+1234
+12345
+
    
  - [Click Here To See The Solution Document](https://docs.google.com/document/d/10otlwVuxS67WUWe2gvgaZWC6V_TL8AXSRg9miniAAV4/edit?usp=sharing)
