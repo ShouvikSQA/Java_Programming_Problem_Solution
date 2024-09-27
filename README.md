@@ -10,5 +10,10 @@
    - Find out who achieved the 2nd highest score. (without sorting, use linear searching algorithm)
    ### Question 2
    -  Sort the above scores from according to the order of highest CGPA (don’t use Arrays.sort() method, do it programmatically)
+   ### Question 3
+   -  Take a CGPA as user input. Now from the given array find if your input CGPA is present using binary search algorithm
+   -  
+    ### Question 4
+   - Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min number from the array.
    
  - [Click Here To See The Solution Document](https://docs.google.com/document/d/10otlwVuxS67WUWe2gvgaZWC6V_TL8AXSRg9miniAAV4/edit?usp=sharing)
