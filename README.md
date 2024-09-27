@@ -4,7 +4,7 @@
  Here I Have solved 12 basic level Programming Problem Using Java
 
  ## Problem Description and Soltutions -
- - [Click Here To See The Problem Description Document](https://docs.google.com/document/d/1nVCycE11otMBeOLXjZYmpDSOdQmTZaOZ2qeEKHDleBk/edit?usp=sharing)
+   ## Questions
    ### Question 1
    -  Here is the 10 students CGPA [3.50, 3.52, 3.43, 3.63, 3.48, 3.32, 3.30, 3.60, 3.86, 3.75]
    - Find out who achieved the 2nd highest score. (without sorting, use linear searching algorithm)
@@ -37,5 +37,6 @@ numbers=[1, 1, 2, 3, 1, 2, 4, 5, 6, 5, 4, 7]
   - Remove Vowels from a String
    ### Question 12
    - A core i 7 laptop price is 85000 tk and a gaming mouse price is 2500 tk. If I buy the laptop and 1 piece mouse, what will be my total cost after giving 15% discount? [Extract the digits from the paragraph and calculate the price]
-   
+
+   ## Solution Codes -
  - [Click Here To See The Solution Document](https://docs.google.com/document/d/10otlwVuxS67WUWe2gvgaZWC6V_TL8AXSRg9miniAAV4/edit?usp=sharing)
