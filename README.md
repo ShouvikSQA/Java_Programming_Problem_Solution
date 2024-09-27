@@ -16,8 +16,8 @@
     ### Question 4
    - Generate random 10 integer numbers in an array and print out all the numbers from the array and also print the max and min number from the array.
 
-    ### Question 5
-    - Write a program that will break down the amount and count notes for any given amount. Here is the notes in the given array:    
+     ### Question 6
+     - Write a program that will break down the amount and count notes for any given amount. Here is the notes in the given array:    
 notes=[1000,500,200,100,50,20,10,5,2,1]
 
    ### Question 6
